@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://gwatt.vercel.app/">Gajanan Wattamwar!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://gwatt.vercel.app/">Yogesh Uttarwar!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
